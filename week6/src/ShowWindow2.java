@@ -23,7 +23,7 @@ public class ShowWindow2{
 		JTextField text1 = new JTextField ();
 		JTextField text2 = new JTextField ();
 
-		myLabel.setFont(new Font(null, Font.PLAIN, 24));
+		myLabel.setFont(new Font(null, Font.PLAIN, 20));
 		myLabel2.setFont(new Font(null, Font.BOLD, 24));
 
 		window.setLayout(null);
